@@ -1,4 +1,4 @@
-# DvD-rental-power-bi 
-
-Here i connect famous DVD rental  postgresql Databse with power bi .
-Utilizing Power DAX for Data Analysis And create report
+![image](https://github.com/user-attachments/assets/94171073-36e7-4fe4-9c8f-f9e6b4168eaa)
+                                        
+  
+  
